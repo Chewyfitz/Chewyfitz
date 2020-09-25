@@ -1,18 +1,18 @@
 ### Hi there 👋
 Check out some of my cool repositories:
 
-##Python
+## Python
 - [PunPun](https://github.com/Chewyfitz/PunPunBot), a Discord bot
 
-##Java
+## Java
 - [Multithreaded Dictionary Server](https://github.com/Chewyfitz/Multithreaded-Dictionary-Server)
 - [Distributed Whiteboard](https://github.com/Chewyfitz/Distributed-Whiteboard)
 
-##JavaScript
+## JavaScript
 - [IT Project](https://github.com/Chewyfitz/comp30022-it-project): A photo management application for a client
 - (Deprecated) [UnimelbTimetableSaver](https://github.com/Chewyfitz/UnimelbTimetableSaver): A way to download you university timetable
 
-##C
+## C
 - [SSH Certificate check](https://github.com/Chewyfitz/ssh-cert-checker)
 - [HTTP Web server](https://github.com/Chewyfitz/http1-webserver)
 
